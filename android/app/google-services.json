@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904342774291",
+    "project_id": "murife-6546e",
+    "storage_bucket": "murife-6546e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904342774291:android:a3c0ff91cd87cfa9ffd5e6",
+        "android_client_info": {
+          "package_name": "com.example.murife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904342774291-gmj686horusoscb6i26i8sbh300jd1ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFU0r_DsgM2xTViGdDC1EZJJX9TIGAHro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904342774291-gmj686horusoscb6i26i8sbh300jd1ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
